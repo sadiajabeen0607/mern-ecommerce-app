@@ -1,0 +1,12 @@
+# Ignore environment configuration files
+/config/config.env
+
+# Ignore node_modules directory (if applicable)
+node_modules/
+
+# Ignore log files (if applicable)
+*.log
+
+# Ignore editor-specific files (if applicable)
+.vscode/
+.idea/
